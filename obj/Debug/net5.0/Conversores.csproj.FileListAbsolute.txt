@@ -1,0 +1,16 @@
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\bin\Debug\net5.0\Conversores.exe
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\bin\Debug\net5.0\Conversores.deps.json
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\bin\Debug\net5.0\Conversores.runtimeconfig.json
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\bin\Debug\net5.0\Conversores.runtimeconfig.dev.json
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\bin\Debug\net5.0\Conversores.dll
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\bin\Debug\net5.0\ref\Conversores.dll
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\bin\Debug\net5.0\Conversores.pdb
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\obj\Debug\net5.0\Conversores.csprojAssemblyReference.cache
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\obj\Debug\net5.0\Conversores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\obj\Debug\net5.0\Conversores.AssemblyInfoInputs.cache
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\obj\Debug\net5.0\Conversores.AssemblyInfo.cs
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\obj\Debug\net5.0\Conversores.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\obj\Debug\net5.0\Conversores.dll
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\obj\Debug\net5.0\ref\Conversores.dll
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\obj\Debug\net5.0\Conversores.pdb
+C:\Users\Nicolas Barletta\Desktop\UMC\Conversores\obj\Debug\net5.0\Conversores.genruntimeconfig.cache
